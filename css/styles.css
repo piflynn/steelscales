@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(45deg, greenyellow,deepskyblue);
+    background-attachment: fixed;
+}
+
+table {
+    box-shadow: 0 2px 5px #333;
+    margin: auto;
+}
+
+select {
+    box-shadow: 0 2px 5px #333;
+}
+
+#container {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-top: 100px;
+    box-shadow: 0 5px 10px #333;
+    text-align: center;
+    color: 
+}
